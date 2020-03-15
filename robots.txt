@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aefeepiibo.mikelibby.com/sitemap.xml
